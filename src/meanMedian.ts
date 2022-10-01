@@ -66,5 +66,7 @@ const medianCalc = median(arrayOfIntegers, quantity)
 
 console.log('Mean, Median, calculation')
 console.log('Calculating stats...')
-console.log(`The median is, ${String(medianCalc)}`)
 console.log(`The mean is, ${String(calcMean)}`)
+console.log(`The median is, ${String(medianCalc)}`)
+
+console.log(`\nDone!`)
